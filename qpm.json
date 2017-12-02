@@ -1,0 +1,21 @@
+{
+  "name": "co.podzim.ionicon",
+  "description": "Using Ionicon in QML",
+  "author": {
+    "name": "Long Nguyen",
+    "email": "long@podzim.co"
+  },
+  "repository": {
+    "type": "GITHUB",
+    "url": "https://github.com/longseespace/Ionicon.qml.git"
+  },
+  "version": {
+    "label": "1.0.0",
+    "revision": "",
+    "fingerprint": ""
+  },
+  "dependencies": [],
+  "license": "MIT",
+  "pri_filename": "Ionicon.pri",
+  "webpage": "https://github.com/longseespace/Ionicon.qml"
+}
